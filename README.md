@@ -1,1 +1,2 @@
-# Spotify-App
+# Spotify-app
+Clone of spotify
